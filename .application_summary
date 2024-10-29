@@ -1,5 +1,5 @@
 {
   "ProjectOverviewURL": "https://bad18cc4trial.launchpad.cfapps.us10.hana.ondemand.com/lcapriskmanagement.riskmanagementLaunchpad-1.0.0/",
-  "DeployedUTCTime": "2024-10-28T14:06:52.913Z",
+  "DeployedUTCTime": "2024-10-29T05:22:58.040Z",
   "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:riskmanagement-srv)))))"
 }
